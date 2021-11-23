@@ -1,0 +1,4 @@
+Diff is to comare the diffrence between two branches or two codes.
+Remote is the ability of github to allow for all programers to accese and upload the project from remote locations.
+Restore is used to restore the state to a privoius one. It basicly is undo.
+Rebase allows you to easily change a series of commits, modifying the history of your repository. You can reorder, edit, or squash commits together.
