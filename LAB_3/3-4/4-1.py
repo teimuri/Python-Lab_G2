@@ -15,4 +15,4 @@ def LD(s, t):
 
     return res
 
-print(LD("Python", "Pehn"))
+print(LD("kins", "sitin"))
