@@ -1,0 +1,18 @@
+#First of All
+git clone <cloning adress>
+
+#add the files to the direcotry
+#These files will be pushed to "master" branch
+
+# Add files
+git add .
+
+# Commit your changes
+git commit -m "First commit"
+
+# Verifies the new remote URL
+git remote -v
+
+# Push your changes
+git push origin master
+
